@@ -1,0 +1,6 @@
+{
+  "name": "Planilha Inteligente & App Mega Análise",
+  "description": "Página de vendas oficial de alta conversão para o combo Planilha Inteligente e App PWA Mega Análise na Kiwify por R$ 89,90 no Pix com instalação instantânea no celular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
